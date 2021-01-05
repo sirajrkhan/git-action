@@ -1,0 +1,7 @@
+name: 'Bismillah'
+description: 'Starting with GitHub Actions'
+author: 'Siraj Khan <sirajrkhan@gmail.com>'
+
+runs:
+  using: 'node10'
+  main: 'index.js'
