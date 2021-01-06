@@ -3,5 +3,5 @@ description: 'Starting with GitHub Actions'
 author: 'Siraj Khan <sirajrkhan@gmail.com>'
 
 runs:
-  using: 'node10'
+  using: 'node12'
   main: 'index.js'
