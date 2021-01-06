@@ -7,6 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "bump": "npm version"
   },
-  "author": "",
+  "author": "Siraj Khan",
   "license": "ISC"
 }
